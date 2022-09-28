@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpillTheTea/static/css/main.29495b34.css",
+    "main.js": "/SpillTheTea/static/js/main.ac1a25eb.js",
+    "static/js/787.d22009e3.chunk.js": "/SpillTheTea/static/js/787.d22009e3.chunk.js",
+    "index.html": "/SpillTheTea/index.html",
+    "main.29495b34.css.map": "/SpillTheTea/static/css/main.29495b34.css.map",
+    "main.ac1a25eb.js.map": "/SpillTheTea/static/js/main.ac1a25eb.js.map",
+    "787.d22009e3.chunk.js.map": "/SpillTheTea/static/js/787.d22009e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29495b34.css",
+    "static/js/main.ac1a25eb.js"
+  ]
+}
